@@ -1,0 +1,5 @@
+starlette
+uvicorn
+pytest
+requests
+pyyaml
